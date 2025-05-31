@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# EduSphere
-=======
 # EduManager
 
 ## Project Overview
@@ -145,4 +142,3 @@ REFRESH_TOKEN_SECRET = <Enter refresh token >
 REFRESH_TOKEN_EXPIRY = <Enter expiry>
 ```
 ### Developed by - Pushpesh Pant
->>>>>>> 89b2d94 (Initial commit)
